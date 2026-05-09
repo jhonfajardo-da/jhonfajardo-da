@@ -3,9 +3,9 @@
 
 Transformo datos complejos en insights accionables que impulsan decisiones estratégicas de negocio.
 
-p align="left"
-img src="https://komarev.com/ghpvc/?username=jhonfajardo-da&color-green" alt="profile views"
-p/
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=jhonfajardo-da&color-green" alt="profile views">
+<p/>
 ---
 
 ## Sobre mí
